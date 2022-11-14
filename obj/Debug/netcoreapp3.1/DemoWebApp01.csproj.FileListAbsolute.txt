@@ -1,0 +1,8 @@
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Debug\netcoreapp3.1\DemoWebApp01.csproj.AssemblyReference.cache
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Debug\netcoreapp3.1\DemoWebApp01.GeneratedMSBuildEditorConfig.editorconfig
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Debug\netcoreapp3.1\DemoWebApp01.AssemblyInfoInputs.cache
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Debug\netcoreapp3.1\DemoWebApp01.AssemblyInfo.cs
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Debug\netcoreapp3.1\DemoWebApp01.csproj.CoreCompileInputs.cache
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Debug\netcoreapp3.1\DemoWebApp01.MvcApplicationPartsAssemblyInfo.cache
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Debug\netcoreapp3.1\DemoWebApp01.RazorAssemblyInfo.cache
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Debug\netcoreapp3.1\DemoWebApp01.RazorAssemblyInfo.cs
