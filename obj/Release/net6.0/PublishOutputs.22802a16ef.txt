@@ -1,0 +1,7 @@
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\DemoWebApp01.exe
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\DemoWebApp01.dll
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\DemoWebApp01.deps.json
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\DemoWebApp01.runtimeconfig.json
+D:\UserData\z0046kxm\source\repo\Az-204-Training\AzureSolutions\DemoWebApp01\obj\Release\net6.0\PubTmp\Out\DemoWebApp01.pdb
